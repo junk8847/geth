@@ -18,3 +18,37 @@
 16:03:38.775735 db@open done T·18.658973ms
 16:03:38.792898 db@close closing
 16:03:38.793593 db@close done T·696.048µs
+=============== Nov 15, 2022 (UTC) ===============
+16:03:50.282462 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:03:50.286742 version@stat F·[1] S·652B[652B] Sc·[0.25]
+16:03:50.287164 db@open opening
+16:03:50.287743 journal@recovery F·1
+16:03:50.288414 journal@recovery recovering @3
+16:03:50.291153 version@stat F·[1] S·652B[652B] Sc·[0.25]
+16:03:50.303766 db@janitor F·3 G·0
+16:03:50.304205 db@open done T·16.59898ms
+16:03:50.316074 db@close closing
+16:03:50.316920 db@close done T·838.603µs
+=============== Nov 15, 2022 (UTC) ===============
+16:04:59.006847 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:04:59.012144 version@stat F·[1] S·652B[652B] Sc·[0.25]
+16:04:59.012720 db@open opening
+16:04:59.013299 journal@recovery F·1
+16:04:59.015617 journal@recovery recovering @5
+16:04:59.020869 version@stat F·[1] S·652B[652B] Sc·[0.25]
+16:04:59.031589 db@janitor F·3 G·0
+16:04:59.032082 db@open done T·18.937475ms
+16:05:13.323761 db@close closing
+16:05:13.324480 db@close done T·717.619µs
+=============== Nov 15, 2022 (UTC) ===============
+16:05:45.613294 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:05:45.615457 version@stat F·[1] S·652B[652B] Sc·[0.25]
+16:05:45.615867 db@open opening
+16:05:45.616418 journal@recovery F·1
+16:05:45.619373 journal@recovery recovering @7
+16:05:45.624287 memdb@flush created L0@9 N·10 S·380B "Dat..ion,v13":"unc..own,v19"
+16:05:45.627481 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+16:05:45.636139 db@janitor F·4 G·0
+16:05:45.636515 db@open done T·20.246558ms
+16:05:48.394423 db@close closing
+16:05:48.395379 db@close done T·954.554µs
