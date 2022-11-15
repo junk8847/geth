@@ -6,3 +6,4 @@ upd:
 
 sh: upd
 	docker compose exec app sh
+
