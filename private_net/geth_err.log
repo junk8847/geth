@@ -684,3 +684,16 @@ INFO [11-15|16:12:34.510] Generating DAG in progress               epoch=1 perce
 INFO [11-15|16:12:35.128] Generating DAG in progress               epoch=1 percentage=98 elapsed=1m41.243s
 INFO [11-15|16:12:36.014] Generating DAG in progress               epoch=1 percentage=99 elapsed=1m42.129s
 INFO [11-15|16:12:36.017] Generated ethash verification cache      epoch=1 elapsed=1m42.132s
+INFO [11-15|16:14:28.226] HTTP server stopped                      endpoint=127.0.0.1:8551
+INFO [11-15|16:14:28.227] IPC endpoint closed                      url=/geth/private_net/geth.ipc
+INFO [11-15|16:14:28.228] Ethereum protocol stopped 
+INFO [11-15|16:14:28.228] Transaction pool stopped 
+INFO [11-15|16:14:28.231] Writing cached state to disk             block=64 hash=ef96c5..8f8f78 root=f29b84..98db97
+INFO [11-15|16:14:28.232] Persisted trie from memory database      nodes=1 size=148.00B time="504.509µs" gcnodes=0 gcsize=0.00B gctime=0s livenodes=64 livesize=9.10KiB
+INFO [11-15|16:14:28.233] Writing cached state to disk             block=63 hash=14904b..e40a0e root=263b8a..363b30
+INFO [11-15|16:14:28.234] Persisted trie from memory database      nodes=1 size=148.00B time="531.439µs" gcnodes=0 gcsize=0.00B gctime=0s livenodes=63 livesize=8.95KiB
+INFO [11-15|16:14:28.234] Writing snapshot state to disk           root=56e81f..63b421
+INFO [11-15|16:14:28.235] Persisted trie from memory database      nodes=0 size=0.00B   time="3.462µs"   gcnodes=0 gcsize=0.00B gctime=0s livenodes=63 livesize=8.95KiB
+INFO [11-15|16:14:28.236] Writing clean trie cache to disk         path=/geth/private_net/geth/triecache threads=6
+INFO [11-15|16:14:28.259] Persisted the clean trie cache           path=/geth/private_net/geth/triecache elapsed=21.813ms
+INFO [11-15|16:14:28.259] Blockchain stopped 
